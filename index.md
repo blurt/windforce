@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Windforce Consulting
 
-You can use the [editor on GitHub](https://github.com/blurt/windforce/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Value well-built, robust software
 
 ### Markdown
 
@@ -11,27 +9,43 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Services
+## Staff Augmentation
 
-- Bulleted
-- List
+- Accelerate your team's velocity
+- Industry experts available for web, cloud, mobile, desktop, dev ops
 
-1. Numbered
-2. List
+### Architecture Consultation
 
-**Bold** and _Italic_ and `Code` text
+- Analysis on how to best establish, modify, and integrate your software solutions
+- Augment or pivot business products
 
-[Link](url) and ![Image](src)
-```
+### Training
+- Quantify velocity and improvements of software through measurable metrics
+- Training sessions for development team
+- Reduce technical debt, establish a code of conduct
+- Adopt best practises from application code to dev ops
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Expertise
+## Web Apps
+- E-Commerce
+- Portals
+- APIs
 
-### Jekyll Themes
+## Desktop Products
+- Experts in every technology available to build/extend Windows Applications
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blurt/windforce/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Mobile Products
+-Develop Xamarin Applications
+-Build games / 3D apps with Unity3D
 
-### Support or Contact
+## Cloud Services
+- Azure
+- AWS
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Test frameworks
+- Expert advice in building the framework for unit and integration testing
+
+
+# SALES
+sales@windforceconsulting.ca
