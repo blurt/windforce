@@ -24,5 +24,5 @@ Value well-built, robust software
 - Experts available to build cross-platform desktop applications
 - MAUI/WPF/Winforms, Electron, Unity3D
 
-## SALES
+## Contact
 - sales@windforceconsulting.ca
