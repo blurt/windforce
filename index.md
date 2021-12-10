@@ -8,7 +8,7 @@ Value well-built, robust software
 - Establish, modify, and integrate your software solutions
 - Augment or pivot software products
 - Quantify improvements through measurable metrics
-- Build frameworks for unit and integration testing
+- Lay the foundation for unit and integration testing
 
 ## Training
 - Training sessions led by industry experts
@@ -16,8 +16,8 @@ Value well-built, robust software
 - Reduce technical debt, establish a code of conduct
 
 ## Web Apps
-- E-Commerce, Single page applications
-- Angular, React, Razor
+- E-Commerce, Portals, Single page applications
+- Angular, React, Blazor
 - Cloud services, Big Data, Databases, APIs
 
 ## Desktop Apps
